@@ -37,7 +37,10 @@ The objective is to help HR teams identify high-risk attrition segments and supp
 ---
 
 ## 📷 Dashboard Preview
-<img width="1295" height="727" alt="Dashboard" src="https://github.com/user-attachments/assets/42d0ef4d-1ec8-4866-9643-a052bc126e79" />
+<img width="1265" height="714" alt="HR1" src="https://github.com/user-attachments/assets/44707473-00d2-42e2-b86e-ac02f2ae95cb" />
+<img width="1280" height="720" alt="HR2" src="https://github.com/user-attachments/assets/29f2f84c-0a9a-4af0-87c7-3167c6d4f8c4" />
+<img width="1276" height="717" alt="HR3" src="https://github.com/user-attachments/assets/75fa05ca-b31b-4f2d-9b53-afcbe79c7a2c" />
+
 
 ## Key Insights
 - Highest attrition observed in the 26–35 age group
